@@ -20,19 +20,19 @@ After 10+ years in client-facing roles, I'm bringing my communication skills, at
 ## 🚀 Projects & practice
 
 🧠 Brain Games
-A collection of command-line games built with JavaScript and Node.js.
+- A collection of command-line games built with JavaScript and Node.js.
 
 🔎 Gendiff
-A CLI tool for comparing JSON and YAML files, with multiple output formats and Jest tests.
+- A CLI tool for comparing JSON and YAML files, with multiple output formats and Jest tests.
 
 📰 RSS Aggregator
-A web application for collecting RSS feeds and following updates from different sources.
+- A web application for collecting RSS feeds and following updates from different sources.
 
 ⚡ Pokémon App
-A React application for exploring Pokémon. Practice with components, API requests, and UI testing.
+- A React application for exploring Pokémon. Practice with components, API requests, and UI testing.
 
 🎭 Playwright Practice
-UI and API testing exercises covering authentication, registration, shopping carts, and validation.
+- UI and API testing exercises covering authentication, registration, shopping carts, and validation.
 
 ## 🎯 What I'm focusing on
 
